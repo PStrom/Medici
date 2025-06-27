@@ -19,4 +19,6 @@ We also sense the importance of knowledge about the material we work with. The m
 
 Inspired by the Medici Effect, we embrace the power of the intersection — where the unexpected creates the practical, and where ideas leap across boundaries to shape better architectures.
 
-We are also inspired in form by other movements, such as Modernism and architecture, design and art with formations such as 'Göteborgskoloristerna' and 'Kunstguppe Brucke' who acted as working individualslearning and exploring together.
+We are also inspired in form by other movements, such as Modernism and architecture, with formations such as 'Göteborgskoloristerna' and 'Die Brücke' who acted as working individuals learning and exploring together.
+
+Practical knwoledge is also of great importance to us, learning by formulating questions and experience the result from what we build rather than up-front analysis and specifications.
