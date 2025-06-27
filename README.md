@@ -15,7 +15,7 @@ We’re here to learn, practice, and co-create architectures that matter — in 
 We believe architecture is not a static discipline, but a living, generative practice — an infinite game.
 Our community exists to explore how actionable architecture emerges when we collide it with ideas from other domains: psychology, design, systems thinking, lean, storytelling, and more.
 
-We also sense the importance of knowledge about the material we work with. The material is the digital material. The knowledge mainly comes from software engineering and practices about how to bridge the gap to the business and towards user mental models, basically object orientation in different forms.
+We recognize the critical importance of understanding our core material: digital systems. Our insights are deeply rooted in software engineering principles and practices that bridge the gap between technical implementation, business objectives, and user mental models, leveraging approaches like object-orientation.
 
 Inspired by the Medici Effect, we embrace the power of the intersection — where the unexpected creates the practical, and where ideas leap across boundaries to shape better architectures.
 
