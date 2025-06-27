@@ -21,4 +21,4 @@ Inspired by the Medici Effect, we embrace the power of the intersection — wher
 
 We are also inspired in form by other movements, such as Modernism and architecture, with formations such as 'Göteborgskoloristerna' and 'Die Brücke' who acted as working individuals learning and exploring together.
 
-Practical knwoledge is also of great importance to us, learning by formulating questions and experience the result from what we build rather than up-front analysis and specifications.
+Practical knowledge is of great importance, continous learning by formulating questions and experience the result from what we build rather than up-front analysis and specifications.
